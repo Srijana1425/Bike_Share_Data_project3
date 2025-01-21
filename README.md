@@ -1,9 +1,6 @@
 # 🚲 Bikeshare Analysis
 
 ## 🌟 Overview
-# 🚲 Bikeshare Analysis
-
-## 🌟 Overview
 Use Python to explore bike share data for Chicago, New York City, and Washington. Import data, compute statistics, and create an interactive terminal script.
 
 ## 📂 Datasets
