@@ -30,7 +30,7 @@ The main functions in the `bikeshare.py` script include:
 - `display_raw_data(df)`: Allows user to view raw data in chunks.
 
 ## 📄 Here is the Code File
-[`bikeshare.py`](path-to-your-file)
+[`bikeshare.py`](https://github.com/Srijana1425/Bike_Share_Data_project3/blob/main/bikeshare.py)
 
 
 ## 🖼️ Output
