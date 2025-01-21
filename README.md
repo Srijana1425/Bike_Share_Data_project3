@@ -1,4 +1,4 @@
-# 🚲 Bikeshare Analysis
+# 🚲 Explore US Bikeshare Data : Udacity Project
 
 ## 🌟 Overview
 In this project, you will use Python to explore data related to bike share systems for three major cities in the United States— **Chicago**, **New_York_City**, and **Washington**. It imports data from CSV files and computes descriptive statistics from the data.
