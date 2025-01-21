@@ -1,7 +1,56 @@
 # 🚲 Bikeshare Analysis
 
 ## 🌟 Overview
-Use Python to explore bike share data for Chicago, New York City, and Washington. Import data, compute statistics, and create an interactive terminal script.
+In this project, you will use Python to explore data related to bike share systems for three major cities in the United States— **Chicago**, **New_York_City**, and **Washington**. It imports data from CSV files and computes descriptive statistics from the data.
+## Datasets
+- `chicago.csv`
+- `new_york_city.csv`
+- `washington.csv`
+
+## Getting Started
+1. Download and unzip project files.
+2. Install dependencies:
+    ```bash
+    pip install pandas numpy
+    ```
+3. Run the script:
+    ```bash
+    python bikeshare.py
+    ```
+
+## Code Summary
+- `get_filters()`: User input for city, month, day.
+- `load_data()`: Load and filter data.
+- `time_stats()`: Common travel times.
+- `station_stats()`: Popular stations.
+- `trip_duration_stats()`: Trip duration.
+- `user_stats()`: User demographics.
+- `display_raw_data()`: View raw data.
+
+## Usage
+Run `bikeshare.py` and follow prompts. View statistics and raw data.
+
+## Links
+- Code: [bikeshare.py](./bikeshare.py)
+- Output: ![Bikeshare Output](./bikeshare_output.jpg)
+
+## Expected Output
+- Common travel times
+- Popular stations and trips
+- Trip duration stats
+- User demographics
+
+## Contributing
+Submit issues or pull requests.
+
+## License
+MIT License
+
+## Acknowledgments
+Thanks to Udacity for resources and template.
+This should provide a clear and concise description with the mention of "in this project". Let me know if you need any further adjustments! 😊
+
+
 
 ## 📂 Datasets
 - `chicago.csv`
