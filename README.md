@@ -34,3 +34,4 @@ The main functions in the `bikeshare.py` script include:
 
 
 ## 🖼️ Output
+![Alt Text](https://github.com/Srijana1425/Bike_Share_Data_project3/blob/main/bikeshare_output.jpg)
