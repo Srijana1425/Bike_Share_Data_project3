@@ -29,8 +29,7 @@ The main functions in the `bikeshare.py` script include:
 - `user_stats(df)`: Presents user demographics.
 - `display_raw_data(df)`: Allows user to view raw data in chunks.
 
-## 📊 Usage
-Run the `bikeshare.py` script and follow the prompts. View various statistics and raw data based on your input.
+## 📄 Here is the Code File
+`bikeshare.py`
 
-```bash
-python bikeshare.py
+## 🖼️ Output
